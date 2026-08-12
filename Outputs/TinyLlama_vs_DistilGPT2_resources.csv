@@ -1,0 +1,4 @@
+,TinyLlama-1.1B,DistilGPT2
+Training Time (min),120.38,11.09
+Peak VRAM (GB),1.56,1.18
+Approx. Parameters,1100000000.0,82200000.0

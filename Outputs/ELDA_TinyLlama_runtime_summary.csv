@@ -1,0 +1,12 @@
+Metric,Value
+Number of requests,100.0
+Average latency (ms),291.8792883499009
+Median latency (ms),265.8246299988605
+P95 latency (ms),417.04429109968254
+Minimum latency (ms),247.46149599923228
+Maximum latency (ms),642.7528300009726
+Throughput (requests/sec),3.4158594342493958
+Peak RAM (GB),4.487964630126953
+Peak VRAM (GB),3.351872444152832
+Average GPU utilisation (%),35.12903225806452
+Peak GPU utilisation (%),45.0

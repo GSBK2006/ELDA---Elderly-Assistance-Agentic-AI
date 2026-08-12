@@ -1,0 +1,101 @@
+test_id,query,latency_ms
+1,Remind me to take my medicine at 8 PM.,642.7528300009726
+2,I need to book an appointment with a doctor.,477.08359399985056
+3,I am feeling very sad today.,534.2498450008861
+4,I have a headache and feel weak.,261.8337170006271
+5,I think someone is following me.,252.7258450008958
+6,Can you tell me a joke?,255.4742920001445
+7,Remind me to take my medicine at 8 PM.,269.7220689988171
+8,I need to book an appointment with a doctor.,265.8361079993483
+9,I am feeling very sad today.,615.1076330006617
+10,I have a headache and feel weak.,276.6370230001485
+11,I think someone is following me.,262.0088999992731
+12,Can you tell me a joke?,254.47188899852335
+13,Remind me to take my medicine at 8 PM.,273.3286359998601
+14,I need to book an appointment with a doctor.,265.66330100104096
+15,I am feeling very sad today.,257.53669099867693
+16,I have a headache and feel weak.,282.8448269992805
+17,I think someone is following me.,276.3870639992092
+18,Can you tell me a joke?,313.8222540001152
+19,Remind me to take my medicine at 8 PM.,361.74212399964745
+20,I need to book an appointment with a doctor.,377.1119829998497
+21,I am feeling very sad today.,332.37790999919525
+22,I have a headache and feel weak.,347.5628880005388
+23,I think someone is following me.,370.8583150000777
+24,Can you tell me a joke?,374.29582700133324
+25,Remind me to take my medicine at 8 PM.,408.84169199853204
+26,I need to book an appointment with a doctor.,290.13657399991644
+27,I am feeling very sad today.,269.34316199913155
+28,I have a headache and feel weak.,260.07641300020623
+29,I think someone is following me.,265.61329099968134
+30,Can you tell me a joke?,287.27940099997795
+31,Remind me to take my medicine at 8 PM.,264.47673499933444
+32,I need to book an appointment with a doctor.,261.9997460005834
+33,I am feeling very sad today.,254.59021999995457
+34,I have a headache and feel weak.,275.89556699967943
+35,I think someone is following me.,254.32289699892863
+36,Can you tell me a joke?,249.46829399959825
+37,Remind me to take my medicine at 8 PM.,256.37547099904623
+38,I need to book an appointment with a doctor.,270.19293300145364
+39,I am feeling very sad today.,257.59640599972045
+40,I have a headache and feel weak.,255.47165799980576
+41,I think someone is following me.,261.6365699996095
+42,Can you tell me a joke?,268.2059129983827
+43,Remind me to take my medicine at 8 PM.,258.09700499848987
+44,I need to book an appointment with a doctor.,251.84794899905683
+45,I am feeling very sad today.,263.21360600013577
+46,I have a headache and feel weak.,267.16780999959155
+47,I think someone is following me.,247.77934000121604
+48,Can you tell me a joke?,247.46149599923228
+49,Remind me to take my medicine at 8 PM.,256.94738200036227
+50,I need to book an appointment with a doctor.,267.1882530012226
+51,I am feeling very sad today.,262.9878630013991
+52,I have a headache and feel weak.,282.8412159997242
+53,I think someone is following me.,260.95056899976043
+54,Can you tell me a joke?,272.419365001042
+55,Remind me to take my medicine at 8 PM.,255.3433409993886
+56,I need to book an appointment with a doctor.,260.8446449994517
+57,I am feeling very sad today.,257.96674200137204
+58,I have a headache and feel weak.,259.87692899980175
+59,I think someone is following me.,277.2619699990173
+60,Can you tell me a joke?,251.991471999645
+61,Remind me to take my medicine at 8 PM.,275.29540799878305
+62,I need to book an appointment with a doctor.,255.4845140002726
+63,I am feeling very sad today.,284.5809949994873
+64,I have a headache and feel weak.,377.09464299950923
+65,I think someone is following me.,347.9204020004545
+66,Can you tell me a joke?,364.348068000254
+67,Remind me to take my medicine at 8 PM.,331.7685010006244
+68,I need to book an appointment with a doctor.,416.49102799965476
+69,I am feeling very sad today.,376.6365900009987
+70,I have a headache and feel weak.,427.55629000021145
+71,I think someone is following me.,258.8978559997486
+72,Can you tell me a joke?,263.1392519997462
+73,Remind me to take my medicine at 8 PM.,255.13471600061166
+74,I need to book an appointment with a doctor.,267.29302300009294
+75,I am feeling very sad today.,253.66507599937904
+76,I have a headache and feel weak.,267.5295620010729
+77,I think someone is following me.,255.01211599839735
+78,Can you tell me a joke?,270.14698699895234
+79,Remind me to take my medicine at 8 PM.,255.7587000010244
+80,I need to book an appointment with a doctor.,256.75602199953573
+81,I am feeling very sad today.,256.4385099994979
+82,I have a headache and feel weak.,273.7443429996347
+83,I think someone is following me.,264.2119610009104
+84,Can you tell me a joke?,257.5112380000064
+85,Remind me to take my medicine at 8 PM.,251.18242900134646
+86,I need to book an appointment with a doctor.,267.0294349991309
+87,I am feeling very sad today.,252.27663700025005
+88,I have a headache and feel weak.,261.30773600016255
+89,I think someone is following me.,265.81315199837263
+90,Can you tell me a joke?,273.01264999914565
+91,Remind me to take my medicine at 8 PM.,259.3335550009215
+92,I need to book an appointment with a doctor.,253.51906300056726
+93,I am feeling very sad today.,252.82336399868655
+94,I have a headache and feel weak.,274.1727359989454
+95,I think someone is following me.,274.0403059997334
+96,Can you tell me a joke?,272.5459030007187
+97,Remind me to take my medicine at 8 PM.,279.71244099899195
+98,I need to book an appointment with a doctor.,284.74317600012
+99,I am feeling very sad today.,273.88267100104713
+100,I have a headache and feel weak.,264.97231900066254
